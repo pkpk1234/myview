@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pkpk1234/myview/issues"
   },
-  "homepage": "https://github.com/pkpk1234/myview#readme"
+  "homepage": "https://github.com/pkpk1234/myview#readme",
+  "devDependencies": {
+    "karma": "^2.0.0"
+  }
 }
